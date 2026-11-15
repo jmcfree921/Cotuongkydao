@@ -1,0 +1,9 @@
+{
+  "update": {
+    "latest_version": 2,
+    "required": true,
+    "title": "Bản cập nhật cotuongkydao 2.0",
+    "message": "Đã có phiên bản mới, vui lòng cập nhật.",
+    "download_url": ""
+  }
+}
